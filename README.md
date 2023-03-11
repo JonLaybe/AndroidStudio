@@ -7,3 +7,4 @@
 </ul>
 <h1>XML</h1>
 <img src="https://itproger.com/img/courses/activity_lifecycle.png">
+EditText -> hint - placeholder
